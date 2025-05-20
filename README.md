@@ -1,1 +1,1 @@
-# Diabetics
+This project involved developing a robust machine learning pipeline to predict the likelihood of diabetes in patients based on medical diagnostic features. Utilizing the Pima Indians Diabetes dataset, the project focused on data preprocessing, exploratory data analysis, multiple classification models, and performance comparison to determine the most effective predictive algorithm.
